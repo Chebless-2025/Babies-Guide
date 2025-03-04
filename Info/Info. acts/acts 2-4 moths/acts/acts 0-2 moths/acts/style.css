@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: #f2f2f2;
+}
+
+.menu{
+    width: 800px;
+    float: right;
+    height: 70px;
+
+}
+
+
+
+.heading{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px auto;
+}
+.heading h1{
+    font-size: 50px;
+    color: #000;
+    margin-bottom: 5px;
+    position: relative;
+}
+.heading h2::after{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 4px;
+    display: block;
+    margin: 0 auto;
+    background-color: #4caf50;
+}
+.heading p{
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 100px;
+}
+
+
+.servone{
+    font-size: 100px;
+}
+.imageone{
+    height: 60vh;
+}
+
+.servsix{
+    font-size: 40px;
+}

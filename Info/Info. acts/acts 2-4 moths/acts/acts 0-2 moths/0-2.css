@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('img/family-photo-ideas-baby-flytographer-5.jpeg');
+    background-position: cover;
+}
+
+.words{
+    font-size: larger;
+    margin-left: 70px;
+    margin-right: 50px;
+}
+
+.words h1{
+    margin-left: 200px;
+    margin-top: 30px;
+    font-size: 50px;
+}
+
+.words h3{
+    margin-top: 20px;
+}
+
+.words h2{
+    margin-left: 300px;
+    font-size: 40px;
+}
+
+button{
+    border-radius: 2px;
+    font-size: 30px;
+    color: #f9f9f9;
+    background-color: #701509;
+    margin-left: 500px;
+    margin-top: 50px;
+    }
+    footer{
+        margin-top: 230px;
+        color: #f9f9f9;
+        background-color: #000000;
+    }

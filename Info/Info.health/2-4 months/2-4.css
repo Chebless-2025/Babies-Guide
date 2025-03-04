@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+body{
+    background-image: url('img/doctor-pediatrician-patient-happy-child-baby-female-34705793.webp');
+    background-position: cover;
+    background-repeat: none;
+}
+.words{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.words h1{
+    margin-left: 300px;
+    font-size: 50px;
+
+}
+
+.words h3{
+    margin-left: 200px;
+    font-size: 25px;
+}
+.words p{
+    font-size: 20px;
+}
+
+footer{
+    margin-top: 50px;
+background-color: black;
+color: aliceblue;
+
+}

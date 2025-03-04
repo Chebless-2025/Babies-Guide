@@ -1,0 +1,257 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+    
+ 
+ }
+
+ .main{
+     width: 100%;
+     background-image: url('images/1.jpg');
+ background-position: center;
+ background-size: cover;
+ height: 100vh;
+ font-family: sans-serif;
+ background-color: #FAAFBA;
+
+ }
+
+ 
+    
+ 
+ 
+ .navbar{
+     width: 95%;
+     height: auto;
+     margin-left: 30px;
+ }
+ 
+ .menu{
+     width: 800px;
+     float: right;
+     height: 70px;
+ 
+ }
+ ul{
+     float: right;
+     display: flex;
+     padding-top: 30px;
+     justify-content: space-between;
+     gap: 6rem;
+     align-items: center;
+     margin-left: 14%;
+     margin-right: 30px;
+ }
+ 
+ ul{
+     list-style: none;
+     margin-left: 60px;
+     font-size: 16px;
+ }
+ 
+ ul li a{
+     text-decoration: none;
+     color: rgb(248, 79, 192);
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+     transition: .4s ease-in;
+ }
+ 
+ ul li a:hover{
+     color: rgb(52, 134, 226);
+ }
+ .title{
+     position: flex;
+     top: 40%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+     margin-left: 600px;
+     margin-top: -400px;
+ }
+ 
+ .title h1{
+ cursor: pointer;
+ font-family: cursive;
+ color: hsl(332, 76%, 64%);
+ font-size: 80px;
+ 
+ 
+ }
+ 
+ .slogan{
+     position: relative;
+     top: 40%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+ }
+ 
+ .slogan h3{
+     cursor: pointer;
+     font-family: cursive;
+     color: rgb(11, 114, 211);
+     font-size: 25px;
+ }
+ 
+ .content{
+     margin-left: 150px;
+     margin-right: 600px;
+ margin-top: -130px;
+ color: rgb(137, 137, 138);
+ font-size: 25px;
+ 
+ }
+ 
+ 
+ img{
+    margin-top:210px ;
+    height: 70vh;
+    width: 40%;
+    border-radius: 20px;
+    margin-left: 20px;
+ }
+
+ .about{
+    margin-left: 600px;
+    margin-right: 300px;
+    margin-top: -450px;
+    font-size: 30px;
+ }
+
+.imagetwo{
+    margin-left: -600px;
+    margin-right: 10px;
+    width: 300%;
+    margin-top: -110px;
+
+    
+}
+.services{
+
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -450px;
+    font-size: 30px;
+    margin-bottom: -200px;
+
+
+}
+
+.contact{
+    margin-top: 200px;
+    margin-left: -300px;
+    margin-right: 200px;
+}
+
+
+
+.imagefour{
+    margin-left: -600px;
+margin-top: -70px;
+    width: 300%;
+}
+.info{
+
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -450px;
+    font-size: 30px;
+    margin-right: 100px;
+}
+.imagethree{
+    margin-top: -200px;
+    width: 125%;
+    margin-left: -450px;
+    height: 0vh;
+}
+
+.imagefive{
+    margin-top: 0px;
+    width: 125%;
+    margin-left: 150px;
+    height: 0vh;
+    margin-bottom: 200px;
+}
+.imagesix{
+    margin-top: -200px;
+    width: 125%;
+    margin-left: -150px;
+    height: -4vh;
+    margin-bottom: 100px;
+}
+
+.btn1{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f559e0;
+    color: #fff;
+    font-size: 19px;
+    text-decoration: none;
+    border-radius: 25px;
+    margin-top: 15px;
+    transform: 0.3s ease;
+    margin-left: 150px;
+}
+ .btn1:hover{
+    background-color: #264dbb;
+}
+
+.btn2{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f559e0;
+    color: #fff;
+    font-size: 19px;
+    text-decoration: none;
+    border-radius: 25px;
+    margin-top: 250px;
+    transform: 0.3s ease;
+    margin-left: 170px;
+}
+ .btn2:hover{
+    background-color: #264dbb;
+}
+
+.btn3{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f559e0;
+    color: #fff;
+    font-size: 19px;
+    text-decoration: none;
+    border-radius: 25px;
+    margin-top: 15px;
+    transform: 0.3s ease;
+    margin-left: 75px;
+}
+ .btn3:hover{
+    background-color: #264dbb;
+}
+
+.btn4{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f559e0;
+    color: #fff;
+    font-size: 19px;
+    text-decoration: none;
+    border-radius: 25px;
+    margin-top: 15px;
+    transform: 0.3s ease;
+}
+ .btn4:hover{
+    background-color: #264dbb;
+}
+
+
+ footer{
+background-color: black;
+font-size: 16px;
+color: aliceblue;
+ }
+ 
+ 
+    
+ 
+ 
+ 

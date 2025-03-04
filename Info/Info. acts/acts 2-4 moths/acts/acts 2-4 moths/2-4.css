@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('img/be275ff33873d6622f1d1f0ac74dd75f.jpg');
+    background-position: cover;
+}
+
+.words{
+    font-size: larger;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.words h1{
+    margin-left: 200px;
+    margin-top: 30px;
+    font-size: 50px;
+}
+
+.words h3{
+    margin-top: 20px;
+}
+
+.words h2{
+    margin-left: 300px;
+    font-size: 40px;
+}

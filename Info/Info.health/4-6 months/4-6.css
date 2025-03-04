@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+body{
+    background-image: url('img/istockphoto-1191693404-612x612.jpg');
+    background-position: cover;
+    background-repeat: none;
+}
+.words{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.words h1{
+    margin-left: 220px;
+    font-size: 50px;
+
+}
+
+.words h2{
+    margin-left: 400px;
+    font-size: 40px;
+}
+
+.words p{
+    font-size: 20px;
+}
+.om{
+    margin-left: 150px;
+}
+
+footer{
+    margin-top: 50px;
+background-color: black;
+color: aliceblue;
+
+}

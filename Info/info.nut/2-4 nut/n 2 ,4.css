@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+body{
+    background-image: url('img/cute_black_baby_is_eating_grapes_hd_cute-1600x900.jpg');
+    background-position: cover;
+    background-repeat: none;
+}
+.words{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.words h1{
+    margin-left: 350px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+font-size: 50px;
+}
+
+.words h2{
+    margin-left: 400px;
+    font-size: 40px;
+}
+.words p{
+    font-size: 20px;
+}
+
+
+footer{
+    margin-top: 100px;
+background-color: black;
+color: aliceblue;
+
+}
